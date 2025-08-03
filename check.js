@@ -1,0 +1,3 @@
+function checkStatus() {
+  return "ok";
+}
